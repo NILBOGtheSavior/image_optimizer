@@ -1,1 +1,1 @@
-# image_optimizer
+# Image Optimizer
